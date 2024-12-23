@@ -1,0 +1,10 @@
+C:\Users\EF\source\repos\2DGameEngine\2DGameEngine\bin\Debug\2DGameEngine.exe.config
+C:\Users\EF\source\repos\2DGameEngine\2DGameEngine\bin\Debug\2DGameEngine.exe
+C:\Users\EF\source\repos\2DGameEngine\2DGameEngine\bin\Debug\2DGameEngine.pdb
+C:\Users\EF\source\repos\2DGameEngine\2DGameEngine\obj\Debug\2DGameEngine.csprojAssemblyReference.cache
+C:\Users\EF\source\repos\2DGameEngine\2DGameEngine\obj\Debug\_2DGameEngine.Properties.Resources.resources
+C:\Users\EF\source\repos\2DGameEngine\2DGameEngine\obj\Debug\2DGameEngine.csproj.GenerateResource.cache
+C:\Users\EF\source\repos\2DGameEngine\2DGameEngine\obj\Debug\2DGameEngine.csproj.CoreCompileInputs.cache
+C:\Users\EF\source\repos\2DGameEngine\2DGameEngine\obj\Debug\2DGameEngine.exe
+C:\Users\EF\source\repos\2DGameEngine\2DGameEngine\obj\Debug\2DGameEngine.pdb
+C:\Users\EF\source\repos\2DGameEngine\2DGameEngine\obj\Debug\_2DGameEngine.Form1.resources
